@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/vectors/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-vector-id1273072739?k=20&m=1273072739&s=612x612&w=0&h=JpD6VpFDGXzsHZK9gKBHJ0MK4p5_5M8V6bKngzKAirQ=)
+![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
 <h1 align="center">Hi 👋, I'm Binayak Koirala</h1>
 <h3 align="center">Data Science and Machine Learning Enthusiast.</h3>
 <img align ='right' alt='Coding' width='400' src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
