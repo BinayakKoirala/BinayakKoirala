@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-vector-banner-word-line-icon-machine-learning-vector-banner-word-line-icon-vector-background-117806401.jpg)
 <h1 align="center">Hi 👋, I'm Binayak Koirala</h1>
-<h3 align="center">Data Science and Machine Learning Enthusiast.</h3>
+<h3 align="center">Artificial Intelligence and Machine Learning Engineer.</h3>
 <img align ='right' alt='Coding' width='400' src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
